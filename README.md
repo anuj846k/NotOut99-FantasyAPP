@@ -195,22 +195,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Anuj] - [anuj846k@gmail.com]
 
 Project Link: [https://github.com/anuj846k/NotOut99-FantasyAPP](https://github.com/anuj846k/NotOut99-FantasyAPP)
-
-**Key Improvements:**
-
-1.  **Badges:** Added relevant technology/status badges at the top for a professional look. (Remember to replace placeholder links/info).
-2.  **Emojis:** Used emojis sparingly to make headings and feature lists more engaging.
-3.  **Clearer Structure:** Used horizontal rules (`---`) to visually separate major sections.
-4.  **Enhanced Overview:** Slightly expanded the introduction and clearly listed the two main components.
-5.  **Improved Screenshots Section:** Used `<p align="center">` and `hspace` within `<img>` tags for better control and centering, removed the duplicate row, and used percentage widths for better responsiveness on different screen sizes. Added line breaks (`<br/><br/>`) for better visual separation between rows.
-6.  **Detailed Features:** Used bolding and slightly more descriptive language in the feature lists, separating mobile and server features clearly.
-7.  **Dedicated Tech Stack Section:** Consolidated all technologies into one easy-to-find section. Added placeholders for common mobile state management libraries.
-8.  **Refined Getting Started:**
-    * Clearly separated Server and Mobile setup.
-    * Provided more explicit instructions for `.env` files, including example values and notes (like using local IP for mobile testing).
-    * Included the potentially missing `ENTITY_SPORTS_API_KEY` in the server `.env`.
-    * Used more specific `bash` and `dotenv` language tags for code blocks.
-9.  **Standard Sections:** Added common sections like "Contributing," "License," and "Contact" with placeholder content. You should create the corresponding `LICENSE` file and potentially a `CONTRIBUTING.md`.
-10. **Links:** Added links to the official websites for the prerequisites.
-
-Remember to replace placeholder information (like repository URLs, contact info, license details, build status badge link, etc.) with your actual project details.
