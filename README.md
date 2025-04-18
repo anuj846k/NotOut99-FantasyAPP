@@ -68,7 +68,7 @@ NotOut99 allows users to engage deeply with cricket matches by leveraging their 
 * **Database:** MongoDB (with Mongoose ODM potentially)
 * **Real-time Data:** Entity Sports API
 * **SMS/OTP:** Twilio API
-* **State Management (Mobile):** (Specify if using Redux, Context API, Zustand, etc.)
+* **State Management (Mobile):** Redux 
 * **Authentication:** JWT (Access/Refresh Tokens)
 * **Package Managers:** npm / yarn
 
@@ -192,9 +192,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-[Your Name / Team Name] - [your.email@example.com]
+[Anuj] - [anuj846k@gmail.com]
 
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) ```
+Project Link: [https://github.com/anuj846k/NotOut99-FantasyAPP](https://github.com/anuj846k/NotOut99-FantasyAPP) ```
 
 **Key Improvements:**
 
