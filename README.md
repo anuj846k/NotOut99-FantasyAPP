@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Anuj] - [anuj846k@gmail.com]
 
-Project Link: [https://github.com/anuj846k/NotOut99-FantasyAPP](https://github.com/anuj846k/NotOut99-FantasyAPP) ```
+Project Link: [https://github.com/anuj846k/NotOut99-FantasyAPP](https://github.com/anuj846k/NotOut99-FantasyAPP)
 
 **Key Improvements:**
 
